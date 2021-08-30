@@ -1,2 +1,2 @@
-# Student_management_system_python
+# Student_management_system_python_with_Database_XAMPP
 Student management system python
